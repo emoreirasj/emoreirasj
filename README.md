@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Web Full Stack Developer studies.<br>👯 I’m looking to collaborate on an IT team.<br>🌱 I’m currently learning Back end tools.<br>💬 Ask me about beer, I know a lot about it.
+🔭 I’m currently working on updating my github.<br>👯 I’m looking to collaborate on an IT team.<br>🌱 I’m currently learning Back end tools.<br>💬 Ask me about beer, I know a lot about it.
 
 
 ## 🌐 Socials:
